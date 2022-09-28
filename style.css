@@ -1,0 +1,19 @@
+body{
+  background-color:#191970;
+}
+h1{
+  color:#00bfff;
+  text-align:center;
+}
+p,span{
+  color:#b0e0e6;
+}
+a{
+  color:#b0e0e6
+}
+.lamy{
+  text-align:center;
+  padding-top:50px;
+  font-size:70px;
+  color:#48b5e3;
+}
