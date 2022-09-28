@@ -3,7 +3,8 @@ body{
 }
 header{
   color:#00bfff;
-  background-color:#00008b;
+  border-top: dashed 1px #00008b;
+border-bottom: dashed 1px #00008b}
   text-align:center;
 }
 p,span{
