@@ -7,11 +7,12 @@ header{
 border-bottom: dashed 1px #00008b}
   text-align:center;
 }
-p,span{
+a,p,span{
   color:#f0f8ff;
+  font-family:monospace;
 }
 a{
-  color:#f0f8ff;
+  font-size:105%;
 }
 .lamy{
   text-align:center;
