@@ -3,8 +3,8 @@ body{
 }
 header{
   color:#00bfff;
-  border-top: dashed 1px #00008b;
-border-bottom: dashed 1px #00008b}
+  padding-bottom:0;
+  border-bottom: dashed 2px #00008b}
   text-align:center;
 }
 a,p,span{
