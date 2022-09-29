@@ -1,18 +1,16 @@
 body{
   background-color:#008080;
+  color:#f0f8ff;
 }
-header{
+h1{
   color:#00bfff;
   padding-bottom:0;
   border-bottom: dashed 2px #00008b}
   text-align:center;
 }
 a,p,span{
-  color:#f0f8ff;
   font-family:monospace;
-}
-a{
-  font-size:105%;
+  font-size:120%;
 }
 .lamy{
   text-align:center;
