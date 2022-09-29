@@ -12,6 +12,9 @@ a,p,span{
   font-family:monospace;
   font-size:120%;
 }
+a{
+  text-decoration:none;
+}
 .lamy{
   text-align:center;
   font-size:150px;
