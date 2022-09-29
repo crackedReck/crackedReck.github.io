@@ -4,9 +4,8 @@ body{
 }
 h1{
   color:#00bfff;
-  padding-bottom:0;
-  border-bottom: dashed 2px #00008b}
   text-align:center;
+  fint-size:130%;
 }
 a,p,span{
   font-family:monospace;
