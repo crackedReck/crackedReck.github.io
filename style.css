@@ -1,5 +1,5 @@
 body{
-  background-color:#008080;
+  background-color:#2f4f4f;
   color:#f0f8ff;
 }
 img{
@@ -7,10 +7,15 @@ img{
   height:50px;
   width:50px;
 }
-h1{
-  color:#00bfff;
-  text-align:center;
-  fint-size:130%;
+.link{
+  background-color:#66cdaa;
+  width:50px;
+  height:20px;
+  padding:5px 35px;
+}
+li{
+  list-style:none;
+  background-color:#2f4f4f;
 }
 a,p,span{
   font-family:monospace;
