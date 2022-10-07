@@ -2,6 +2,11 @@ body{
   background-color:#008080;
   color:#f0f8ff;
 }
+img{
+  float:left;
+  height:30px;
+  width:30px;
+}
 h1{
   color:#00bfff;
   text-align:center;
