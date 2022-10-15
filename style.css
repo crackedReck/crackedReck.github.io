@@ -2,8 +2,8 @@ title{
   display:none;
 }
 body{
-  background-color:#2f4f4f;
-  color:#f0f8ff;
+  background-color:white;
+  color:#2f4f4f;
 }
 img{
   float:left;
@@ -12,6 +12,7 @@ img{
   margin-right:25px;
 }
 .name{
+  color:#add8e6;
   background-color:#66cdaa;
   width:125px;
   height:20px;
