@@ -1,5 +1,5 @@
 # crackedReck.github.io
 
-作った
+虚無
 
 <a href="https://crackedreck.github.io">ここ</a>
